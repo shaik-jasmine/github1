@@ -1,0 +1,3 @@
+Rabbit and Parrot are two friends.
+They live in same forest. 
+The END
